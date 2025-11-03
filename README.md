@@ -1,4 +1,4 @@
--Pruebas de conexion de peticiones GET,POST
+--Pruebas de conexion de peticiones GET,POST
 -Response and Request 
 -Creacion de funciones flecha 
 -Identificacion de Parametros por peticiones 
